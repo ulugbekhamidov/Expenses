@@ -10,4 +10,4 @@ if (money >= summa) {
     hText.textContent = "Oq yul";
 }else {
     hText.textContent = "Uyda o'tir"
-}
+};
